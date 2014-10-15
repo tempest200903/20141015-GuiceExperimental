@@ -8,7 +8,7 @@ class ProductC implements AbstractC {
 	}
 
 	public int add(int v) {
-		throw new RuntimeException("Not impelemted yet");
+		return getAbstractD().add(v);
 	}
 
 	AbstractD createAbstractD() {

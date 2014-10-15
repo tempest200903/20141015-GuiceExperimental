@@ -1,6 +1,6 @@
 package com.github.tempest200903.example102;
 
-class ProductD  implements AbstractD{
+class ProductD implements AbstractD {
 
 	private int i = 0;
 

@@ -18,6 +18,7 @@ public class ProductATest {
 		AbstractD abstractD = abstractC.getAbstractD();
 		System.out.println("abstractD.getClass() =: " + abstractD.getClass());
 		abstractD.add(3);
+		abstractA.add(3);
 	}
 
 }

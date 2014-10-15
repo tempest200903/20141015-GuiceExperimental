@@ -7,12 +7,7 @@ class ProductB implements AbstractB {
 	private AbstractC c = createAbstractC();
 
 	public int add(int v) {
-		i += v;
-		// add が改修中で動作しないのでスタブで置き換えたい。
-		if (i > 0) {
-			throw new RuntimeException("Not Implemented Yet");
-		}
-		return i;
+		return getAbstractC().add(v);
 	}
 
 	AbstractC createAbstractC() {
