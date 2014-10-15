@@ -1,7 +1,6 @@
 = 20141015-Guice
 [2014-10-15 20:59] >>> f:/goat-pc-data/mydropbox/Dropbox/trunksync/notes/20141008-Checkstyle.markdown
-#+LAST_UPDATED: 
-#+OPTIONS: ^:nil
+ #+LAST_UPDATED: 2014-10-15
 
 # 20141015-Guice #
 
@@ -88,8 +87,11 @@
     > 		return injector;
     > 	}
     ```
+- 結局、 StubD の種類を増やすためには StubC, StubB の種類を増やすしかないのか？
+- StubA までなら inject できるが、 StubB を inject する方法が分からない。
+
 
 ## wiki ##
 
 - copy F:\goat-pc-data\mydropbox\Dropbox\trunksync\notes\20141015-Checkstyle.markdown F:\goat-pc-data\ecworkspace\20141015-GuiceExperimental\wiki\20141015-Checkstyle.markdown
-
+- https://github.com/tempest200903/20141015-GuiceExperimental/blob/master/wiki/20141015-Checkstyle.markdown
