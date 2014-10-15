@@ -95,3 +95,10 @@
 
 - copy F:\goat-pc-data\mydropbox\Dropbox\trunksync\notes\20141015-Checkstyle.markdown F:\goat-pc-data\ecworkspace\20141015-GuiceExperimental\wiki\20141015-Checkstyle.markdown
 - https://github.com/tempest200903/20141015-GuiceExperimental/blob/master/wiki/20141015-Checkstyle.markdown
+
+## timelog ##
+
+- [2014-10-15 水 20:57] begin
+- [2014-10-15 水 23:36] end
+
+.
